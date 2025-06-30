@@ -9,12 +9,12 @@ This analysis tries to classify and predict an ideal investment methodology and 
 ## Data Acquisition
 Data is representing 3 years of advertising channels data with their hirarchical KPIs such as impressions, clicks, conversions, leads, MQLs, SALs, Opportunities Stage 1 and Stage 2 and last but not least ACV. The dataset has been downloaded from Snowflake table connected to Salesforce CRM. The data is representing 3 years of KPIs downloaded on advertising channels segments level.
 
-## Contents:
-1- Understand the Data and Import Necessary Libraries
-2- Read In and Explore the Data
-3- Data Visualization and Analysis
-4- Cleaning Data
-5- Data Modeling and Evaluation
-6- Choosing the Best Model - Model Comparison
-7- Scoring and Improving the Model
-8- Providing Best Business Recommendations
+## Contents:  
+1- Understand the Data and Import Necessary Libraries  
+2- Read In and Explore the Data  
+3- Data Visualization and Analysis  
+4- Cleaning Data  
+5- Data Modeling and Evaluation  
+6- Choosing the Best Model - Model Comparison  
+7- Scoring and Improving the Model  
+8- Providing Best Business Recommendations  
